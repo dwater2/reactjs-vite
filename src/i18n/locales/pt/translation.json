@@ -1,0 +1,103 @@
+{
+  "app": {
+    "title": "Motor de Pesquisas",
+    "description": "Crie e gerencie formulários de pesquisa de forma simples e eficiente"
+  },
+  "navigation": {
+    "home": "Início",
+    "surveys": "Pesquisas",
+    "createSurvey": "Criar Pesquisa",
+    "language": "Idioma"
+  },
+  "surveyList": {
+    "title": "Pesquisas",
+    "emptyMessage": "Nenhuma pesquisa encontrada. Crie uma nova pesquisa!",
+    "searchPlaceholder": "Buscar pesquisas...",
+    "createButton": "Nova Pesquisa",
+    "table": {
+      "name": "Nome",
+      "description": "Descrição",
+      "sections": "Seções",
+      "questions": "Perguntas",
+      "createdAt": "Criado em",
+      "actions": "Ações"
+    },
+    "actions": {
+      "edit": "Editar",
+      "delete": "Excluir",
+      "respond": "Responder"
+    }
+  },
+  "surveyForm": {
+    "createTitle": "Nova Pesquisa",
+    "editTitle": "Editar Pesquisa",
+    "surveyDetails": "Detalhes da Pesquisa",
+    "saveButton": "Salvar",
+    "cancelButton": "Cancelar",
+    "name": "Nome da Pesquisa",
+    "description": "Descrição",
+    "sections": "Seções",
+    "addSection": "Adicionar Seção",
+    "noSections": "Nenhuma seção foi adicionada ainda. Adicione uma seção para começar!",
+    "section": {
+      "title": "Título da Seção",
+      "description": "Descrição da Seção",
+      "questions": "Perguntas",
+      "addQuestion": "Adicionar Pergunta",
+      "delete": "Excluir Seção",
+      "collapse": "Recolher",
+      "expand": "Expandir",
+      "noQuestions": "Nenhuma pergunta foi adicionada ainda. Adicione uma pergunta para começar!"
+    },
+    "question": {
+      "title": "Título da Pergunta",
+      "type": "Tipo de Pergunta",
+      "required": "Obrigatória",
+      "delete": "Excluir Pergunta",
+      "reuseQuestion": "Reutilizar Pergunta",
+      "searchPlaceholder": "Buscar pergunta existente...",
+      "noQuestionsFound": "Nenhuma pergunta encontrada.",
+      "options": "Opções de Resposta",
+      "addOption": "Adicionar Opção",
+      "option": {
+        "text": "Texto da Opção",
+        "delete": "Excluir Opção",
+        "noOptions": "Nenhuma opção foi adicionada ainda. Adicione opções para esta pergunta."
+      },
+      "types": {
+        "text": "Texto",
+        "textarea": "Área de Texto",
+        "singleChoice": "Escolha Única",
+        "multipleChoice": "Múltipla Escolha",
+        "dropdown": "Seleção"
+      }
+    }
+  },
+  "surveyResponse": {
+    "title": "Responder Pesquisa",
+    "submitButton": "Enviar Respostas",
+    "cancelButton": "Cancelar",
+    "successMessage": "Suas respostas foram enviadas com sucesso!",
+    "errorMessage": "Ocorreu um erro ao enviar suas respostas."
+  },
+  "common": {
+    "loading": "Carregando...",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "create": "Criar",
+    "search": "Buscar",
+    "required": "Obrigatório",
+    "optional": "Opcional",
+    "confirmDelete": "Tem certeza que deseja excluir?",
+    "yes": "Sim",
+    "no": "Não",
+    "success": "Sucesso!",
+    "error": "Erro!",
+    "next": "Próximo",
+    "previous": "Anterior",
+    "back": "Voltar",
+    "option": "Opção"
+  }
+}

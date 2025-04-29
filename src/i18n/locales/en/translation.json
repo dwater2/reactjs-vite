@@ -1,0 +1,103 @@
+{
+  "app": {
+    "title": "Survey Engine",
+    "description": "Create and manage survey forms simply and efficiently"
+  },
+  "navigation": {
+    "home": "Home",
+    "surveys": "Surveys",
+    "createSurvey": "Create Survey",
+    "language": "Language"
+  },
+  "surveyList": {
+    "title": "Surveys",
+    "emptyMessage": "No surveys found. Create a new survey!",
+    "searchPlaceholder": "Search surveys...",
+    "createButton": "New Survey",
+    "table": {
+      "name": "Name",
+      "description": "Description",
+      "sections": "Sections",
+      "questions": "Questions",
+      "createdAt": "Created At",
+      "actions": "Actions"
+    },
+    "actions": {
+      "edit": "Edit",
+      "delete": "Delete",
+      "respond": "Respond"
+    }
+  },
+  "surveyForm": {
+    "createTitle": "New Survey",
+    "editTitle": "Edit Survey",
+    "surveyDetails": "Survey Details",
+    "saveButton": "Save",
+    "cancelButton": "Cancel",
+    "name": "Survey Name",
+    "description": "Description",
+    "sections": "Sections",
+    "addSection": "Add Section",
+    "noSections": "No sections added yet. Add a section to get started!",
+    "section": {
+      "title": "Section Title",
+      "description": "Section Description",
+      "questions": "Questions",
+      "addQuestion": "Add Question",
+      "delete": "Delete Section",
+      "collapse": "Collapse",
+      "expand": "Expand",
+      "noQuestions": "No questions added yet. Add a question to get started!"
+    },
+    "question": {
+      "title": "Question Title",
+      "type": "Question Type",
+      "required": "Required",
+      "delete": "Delete Question",
+      "reuseQuestion": "Reuse Question",
+      "searchPlaceholder": "Search existing question...",
+      "noQuestionsFound": "No questions found.",
+      "options": "Answer Options",
+      "addOption": "Add Option",
+      "option": {
+        "text": "Option Text",
+        "delete": "Delete Option",
+        "noOptions": "No options added yet. Add options for this question."
+      },
+      "types": {
+        "text": "Text",
+        "textarea": "Text Area",
+        "singleChoice": "Single Choice",
+        "multipleChoice": "Multiple Choice",
+        "dropdown": "Dropdown"
+      }
+    }
+  },
+  "surveyResponse": {
+    "title": "Respond to Survey",
+    "submitButton": "Submit Responses",
+    "cancelButton": "Cancel",
+    "successMessage": "Your responses have been submitted successfully!",
+    "errorMessage": "An error occurred while submitting your responses."
+  },
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "required": "Required",
+    "optional": "Optional",
+    "confirmDelete": "Are you sure you want to delete?",
+    "yes": "Yes",
+    "no": "No",
+    "success": "Success!",
+    "error": "Error!",
+    "next": "Next",
+    "previous": "Previous",
+    "back": "Back",
+    "option": "Option"
+  }
+}
