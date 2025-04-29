@@ -10,7 +10,7 @@ Sistema de gerenciamento de formulários de pesquisa com suporte a múltiplos id
 - 📑 Múltiplas seções por formulário
 - ❓ Diversos tipos de perguntas
 - 🔄 Reaproveitamento de perguntas
-- 🌎 Suporte a múltiplos idiomas (PT-BR, EN, ES)
+- 🌎 Suporte a múltiplos idiomas (PT-BR, EN)
 - 📱 Interface responsiva
 
 ## 📸 Screenshots
