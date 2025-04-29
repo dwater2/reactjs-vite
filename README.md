@@ -16,7 +16,7 @@ Sistema de gerenciamento de formulários de pesquisa com suporte a múltiplos id
 ## 📸 Screenshots
 
 ### Lista de Formulários
-![Lista de Formulários](https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Lista de Formulários](https://github.com/dwater2/reactjs-vite/blob/main/src/assets/formulario.png)
 
 Visualize todos os formulários cadastrados com informações como:
 - Título
@@ -26,7 +26,7 @@ Visualize todos os formulários cadastrados com informações como:
 - Data da última atualização
 
 ### Criação/Edição de Formulário
-![Edição de Formulário](https://images.pexels.com/photos/3183153/pexels-photo-3183153.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Edição de Formulário](https://github.com/dwater2/reactjs-vite/blob/main/src/assets/formulario.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 Interface intuitiva para criação e edição de formulários:
 - Informações básicas do formulário
