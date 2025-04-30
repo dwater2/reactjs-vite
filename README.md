@@ -14,7 +14,7 @@ Sistema de formulários de pesquisa com suporte a múltiplos idiomas e reutiliza
 ## 📸 Screenshots
 
 ### Lista de Formulários
-![Lista de Formulários](https://github.com/dwater2/reactjs-vite/blob/main/src/assets/formulario.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Lista de Formulários](https://github.com/dwater2/reactjs-vite/blob/main/src/assets/listagem.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 Visualize todos os formulários cadastrados com informações como:
 - Título
